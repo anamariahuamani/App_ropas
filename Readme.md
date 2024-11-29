@@ -45,8 +45,8 @@ github
 dbdiagram: https://dbdiagram.io/d/67377907e9daa85aca9b67ca
 ····trello      https://trello.com/invite/b/65030d85af67f42a76278049/ATTIb6cf063bda2e6a760647382b6ece1cdf96B6B12A/mi-tablero-de-trello
 google shep    https://docs.google.com/spreadsheets/d/1j4d8FRM4v5JJuaFQQ_n80FWclHg5fgeE88LJ_2TAnzk/edit?pli=1&gid=0#gid=0
-
-figma
+formulario https://forms.gle/PZiZiAevu7GrFB628
+ figma https://www.figma.com/design/tpDaaRIrTl8Sg60CUSZSzS/Untitled?node-id=0-1&t=hnYOptMQqDBaaIv4-1
   
 - Usuario
 
