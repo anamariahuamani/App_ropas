@@ -43,11 +43,14 @@ relacionar
 ## TECNOLOGIAS
 github  anamariahuamani
 dbdiagram: https://dbdiagram.io/d/67377907e9daa85aca9b67ca
-····trello      https://trello.com/invite/b/65030d85af67f42a76278049/ATTIb6cf063bda2e6a760647382b6ece1cdf96B6B12A/mi-tablero-de-trello
-google shep    https://docs.google.com/spreadsheets/d/1j4d8FRM4v5JJuaFQQ_n80FWclHg5fgeE88LJ_2TAnzk/edit?pli=1&gid=0#gid=0
+trello      https://trello.com/invite/b/65030d85af67f42a76278049/ATTIb6cf063bda2e6a760647382b6ece1cdf96B6B12A/mi-tablero-de-trello
+google shep    https://docs.google.com/spreadsheets/d/1j4d8FRM4v5JJuaFQQ_n80FWclHg5fgeE88LJ_2TAnzk/edit?pli=1&gid=0#gid
 formulario https://forms.gle/EW5kp8VP7Uma89fDA
  figma 
-  
+
+formulario   https://forms.gle/PZiZiAevu7GrFB628
+figma
+
 - Usuario
 
 1. Registro: El usuario se registra en la aplicación.
@@ -77,6 +80,3 @@ Relaciones
 1. Un usuario puede realizar muchas compras.
 2. Un administrador puede gestionar muchos productos.
 3. Un diseñador puede subir muchos diseños.
-
-
-
