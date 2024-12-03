@@ -31,7 +31,7 @@ def seccion()->rx.Component:
             rx.vstack(
                 rx.link(
                 rx.button(rx.icon(tag="pen"),"Regístrate",),
-                href="https://forms.gle/EW5kp8VP7Uma89fDA";
+                href="https://forms.gle/EW5kp8VP7Uma89fDA",
                 is_external=False,
                 margin_top="5em",
                 padding="5em",
@@ -40,7 +40,7 @@ def seccion()->rx.Component:
                 top="50%",
                 left="40%"
             ),
-            align_items="center"            )
+            align_items="center"            ),
 
        ),
         
