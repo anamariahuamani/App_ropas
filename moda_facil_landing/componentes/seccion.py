@@ -1,24 +1,52 @@
 import reflex as rx
 def seccion()->rx.Component:
-  return rx.vstack(
-      rx.hstack(
-        rx.vstack(
-          rx.text("¿Te gustan mis prendas?",
-          rx.text("¿te gustarian probarte con las prendas a"),
-          rx.text("son los mejores prendas y"),
-          rx.text("generar ingresos por tus creaciones?"),
-),  
+    return rx.vstack(
+        rx.container(
+            rx.hstack(
+                rx.heading(
+                    rx.text.strong(
+                        "",
+                        color=("gray",10),
+                        font_size="1.5em",
+                        text_align="center",
+                        margin_bottom="1em"
+                    ),
+                    rx.hstack(
+                    rx.text.span(
+                        "tenemos los mejores prendas de moda y de mejor calidad y alos mejores precios y te todas las tallas para niños  y jovenes",
+                        color=("black",10),
+                        font_size="1.2em",
+                        align="left",
+                        widht="60%",
+                        margin_right="2em")),
+                    ),
+           
+            rx.image(src="https://promova.com/content/large_ropa_de_mujer_53c6ef780d.png",
+                     widht=200,
+                     height=200,
+                     align="center"),
+            ),
+            
+            
+            rx.vstack(
+                rx.link(
+                rx.button(rx.icon(tag="pen"),"Regístrate",),
+                href="https://forms.gle/EW5kp8VP7Uma89fDA",
+                is_external=False,
+                margin_top="5em",
+                padding="5em",
+                justify="center",
+                position="absolute",
+                top="50%",
+                left="40%"
+            ),
+            align_items="center"            )
+
         ),
-        rx.image(src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVbd505RwV50rfn2p5vZ-0hHGdbeMf1a49rQ&s",width="400px"),
-      ),
-      rx.link(https://forms.gle/PZiZiAevu7GrFB628
-          rx.button(rx.icon(tag="airplay"),"Registrate",),
-          href="",
-          is_external=False,
-      ),
-      align="center",
-      text_align="center",
-      height="676px",
-      background="#efdbea",
-      
+        
+            padding_top="5em",
+            align="center",
+            text_align="start",
+            height="850px",
+            background="#ea899a "
     )
